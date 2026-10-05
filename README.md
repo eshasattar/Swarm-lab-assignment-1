@@ -11,3 +11,6 @@ This project implements Particle Swarm Optimization (PSO) to compute an optimal,
 1. Clone the repository:
    ```bash
    git clone [https://github.com/eshasattar/Swarm-lab-assignment-1](https://github.com/eshasattar/Swarm-lab-assignment-1)
+
+   ## Algorithm Flow Diagram
+![Algorithm Flow Diagram](flow_diagram.jpeg)
